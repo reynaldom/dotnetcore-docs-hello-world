@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WAFReliabilityWebAppTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49221515B3ED411DB898D36D447B046D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7921C5216CC4736A6A6DE318C5B9D9E }}
           package: .
